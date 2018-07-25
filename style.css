@@ -1,14 +1,24 @@
-body{
-    background-color: aqua;
-}
-ul{
-    background-color: antiquewhite;
-}
-#ccss{
-    background-color: aquamarine;
-}
 header{
+    background-color: #66CC00;
+    padding: 30px;
     font-size: 55px;
     color: bisque;
     text-align: center;
+    color: aquamarine;
+}
+body{
+    color: aqua;
+    background-color: #339933;
+}
+ul{
+    line-height: 2px;
+}
+li{
+    margin-right: 810px;
+    margin-bottom: 20px;
+    background-color: #669900;
+    padding: 10px;
+}
+#ccss{
+    background-color: aquamarine;
 }
