@@ -5,10 +5,12 @@ header{
     color: bisque;
     text-align: center;
     color: aquamarine;
+    margin-right:450px;
+    margin-left:450px;
 }
 body{
     color: aqua;
-    background-color: #339933;
+    background-image: url('http://img.wennermedia.com/social/1429037342_success-kid-meme-zoom.jpg');
 }
 nav{
     padding-top: 40px;
@@ -35,4 +37,13 @@ article{
     top:55px;
     float: left;
     
+}
+#aa{
+    color: antiquewhite
+}
+#bb{
+    color: coral
+}
+#cc{
+    color: chartreuse
 }
