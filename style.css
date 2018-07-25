@@ -29,6 +29,9 @@ li{
 }
 
 article{
+    position: relative;
+    left:110px;
+    top:100px;
     float: left;
     margin: 20px;
 }
