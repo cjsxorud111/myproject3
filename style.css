@@ -9,7 +9,7 @@ header{
     margin-left:450px;
 }
 body{
-    color: aqua;
+    
     background-color: aliceblue;
 }
 nav{
@@ -29,6 +29,9 @@ li{
     background-color: #669900;
     padding: 10px;
 }
+#line{
+    border-top: 1px solid ;
+}
 
 article{
     
@@ -46,4 +49,7 @@ article{
 }
 #cc{
     color: blueviolet
+}
+#qq{
+    color: royalblue
 }
