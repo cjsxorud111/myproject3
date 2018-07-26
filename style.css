@@ -1,55 +1,71 @@
-header{
+header {
     background-color: #66CC00;
     padding: 30px;
     font-size: 55px;
     color: bisque;
     text-align: center;
     color: aquamarine;
-    margin-right:450px;
-    margin-left:450px;
+    margin-right: 450px;
+    margin-left: 450px;
 }
-body{
-    
+
+body {
+
     background-color: aliceblue;
 }
-nav{
+
+nav {
     padding-top: 40px;
     width: 150px;
     height: 600px;
     float: left;
 }
 
-ol{
+ol {
     line-height: 2px;
-   
+
 }
-li{
+
+li {
     margin-right: 40px;
     margin-bottom: 20px;
     background-color: #669900;
     padding: 10px;
 }
-#line{
-    border-top: 1px solid ;
+
+
+article {
+
+    position: relative;
+    left: 11px;
+    top: 55px;
+    float: left;
+
 }
 
-article{
-    
-    position: relative;
-    left:11px;
-    top:55px;
-    float: left;
-    
-}
-#aa{
+#aa {
     color: red
 }
-#bb{
+
+#bb {
     color: blue
 }
-#cc{
+
+#cc {
     color: blueviolet
 }
-#qq{
+
+#qq {
     color: royalblue
 }
+/*
+#arti {
+    position: relative;
+    left: 110px;
+   bottom: 1000px;
+    margin-left: 140px;
+    margin-right: 120px;
+    
+}
+*/
+
