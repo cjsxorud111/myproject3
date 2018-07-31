@@ -23,6 +23,7 @@ body{
 #header .avatar img{
   border-radius: 100%;
   display:block;
+  width: 10rem;
 }
 #header h1{
   font-size:1.8rem;
@@ -52,16 +53,7 @@ body{
   align-items: center;
   margin-right: 3rem;
 }
-/*
-#header ul.icons li{
-  display: inline-block;
-  border: 10px;
-  border: 1px solid rgba(255,255,255,0.25);
-  background-color: rgba(255,255,255,0.05);
-  width: 5rem;
-  height: 3rem;
-  
-}*/
+
 #header ul.icons li:hover{
   border:1px solid rgba(255,255,255,0.25);
   background-color: rgba(255,255,255,0.2);
@@ -134,4 +126,26 @@ body{
   #main .thumbnails {
     display: block;
   }
+}
+.container {
+    background-color: aqua;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+.item{
+    background-color: tomato;
+    color: aliceblue;
+    border: 1 solid white;
+    /**/flex-grow: 0;
+}
+.item:nth-child(2){
+    
+    flex-grow: 2;
+}
+
+.jspic {
+    max-width:30rem;
+    display: inline;
+    text-align: center;
 }
